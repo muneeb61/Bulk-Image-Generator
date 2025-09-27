@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bulk Image Generator from Script",
+  "description": "An application that automatically extracts image prompts from a script, generates images in a consistent style using AI, and allows users to download the results.",
+  "requestFramePermissions": []
+}
